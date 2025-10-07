@@ -15,4 +15,4 @@ CSS3 – for layout, styling, and smooth animations
 
 JavaScript (ES6) – for logic, event handling, and player functionality
 
-![Uploading Screenshot 2025-10-07 160503.png…]()
+<img width="1365" height="755" alt="Screenshot 2025-10-07 160503" src="https://github.com/user-attachments/assets/c5947819-7388-46f9-b3c8-73ea7783c73f" />
