@@ -1,13 +1,13 @@
 # Music-Player
 The Music Player Clone is a responsive web-based music player built using HTML, CSS, and JavaScript. It allows users to play, pause, skip, and 
 modern UI. The project focuses on front-end web development concepts like DOM manipulation, event handling, and responsive design.
-##Key Features
+# Key Features
 
 🎧 Play / Pause / Next / Previous track controls
 ⏱️ Progress bar with seek functionality (click or drag to skip parts of the song)
 📱 Fully responsive design for mobile and desktop
 
-##Technologies Used
+# Technologies Used
 
 HTML5 – structure and audio tag for playback
 
